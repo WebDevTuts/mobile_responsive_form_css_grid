@@ -20,3 +20,11 @@ ul {
   margin-right: auto;
   padding: 1em;
 }
+
+.brand {
+  text-align: center;
+}
+
+.brand span {
+  color: #fff;
+}
