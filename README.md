@@ -3,3 +3,5 @@
 In this tutorial we will be building a responsive mobile first contact form using HTML and CSS. We will use CSS3 styling along with a bit of Grid CSS layout. We'll also throw in some icons from font awesome and a simple entry animation using animate.css.
 
 [View demo site here.](https://webdevtuts.github.io/mobile_responsive_form_css_grid/)
+
+![Preview](screenshot.png)
